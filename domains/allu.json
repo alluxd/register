@@ -1,0 +1,12 @@
+{
+    "description": "My portfolio!",
+    "repo": "https://github.com/alluxd/allus-portfolio",
+    "owner": {
+        "username": "alluxd",
+        "email": "aryananoop2022@outlook.com",
+        "twitter": "alluplayzzyt"
+    },
+    "record": {
+        "CNAME": "alluxd.github.io/allus-portfolio"
+    }
+} 
